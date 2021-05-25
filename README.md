@@ -14,3 +14,5 @@ It contains a Carousel image slider that rotates images at timed intervals.  The
 The site has a three column section that includes image and text that resizes to a one column for smaller screens
 
 It has a fixed background section with a text overlay with two buttons that when pressed lead to a Modal Popup section.
+
+This project has a Navbar collapse seen in this project as the Emoji Navbar collapse. The Navbar will open when clicked and display 4 emojis.  When clicked again the navbar will collapse and hide the emojis.
