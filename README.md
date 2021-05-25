@@ -12,3 +12,5 @@ This project has a Nav Bar that reduces to a hamburger menu for mobile devices.
 It contains a Carousel image slider that rotates images at timed intervals.  The text overlay is removed for mobile devices.  This includes using a previous and next button to allow the user to rotate through the slides manually.
 
 The site has a three column section that includes image and text that resizes to a one column for smaller screens
+
+It has a fixed background section with a text overlay with two buttons that when pressed lead to a Modal Popup section.
