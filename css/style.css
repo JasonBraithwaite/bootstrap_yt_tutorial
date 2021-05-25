@@ -48,13 +48,37 @@ body {
 
 /*============= CAROUSEL =============*/
 
+#carousel{
+  box-shadow: 0 1rem 1rem rgba(0,0,0, .1);
+}
+
+.carousel-inner{
+  max-height: 38rem!important;
+}
 
 
 /*---Change Carousel Transition Speed --*/
 
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  transition: 1.2s ease;
+} 
 
 /*-- Carousel Content --*/
 
+.carousel-caption{
+  position: absolute;
+  top: 54%;
+  transform: translateY(-50%);
+  text-transform: uppercase;
+}
+
+.bg-custom{
+  background-color: rgba(0, 0, 0, 0.4 );
+  color: white;
+  border-radius: 1rem;
+}
 
 
 /*===== FIXED BACKGROUND IMG =====*/
