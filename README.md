@@ -20,3 +20,5 @@ This project has a Navbar collapse seen in this project as the Emoji Navbar coll
 The site contains a two Column and Jumbotron Section directly below it ("looking for quality web development and design services? Contact Us Today").  Note how the Contact Us Today Button has padding top when in small screen and no padding when the screen gets bigger using pt-4 pt-md-0.
 
 Finally the project includes a footer and socket section that is centered, has a logo and further logo links to Social media.
+
+Added media queries to resize text size in the overlay text for the carousel images at large and medium size screens
